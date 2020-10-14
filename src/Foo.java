@@ -8,6 +8,8 @@ public class Foo {
 
     public void goo() {System.out.println("Goo");}
 
+    public int loo() {return 42;}
+
     public void bar(){
         _bar.bar();
     }
