@@ -6,7 +6,7 @@ public class Foo {
         System.out.println("Foooooo");
     }
 
-    public void goo() {System.out.println("Goo is no more");}
+    public void goo() {System.out.println("Goo is again");}
 
     public void loo() {System.out.println("Loo");}
 
