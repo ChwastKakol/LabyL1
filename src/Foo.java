@@ -6,6 +6,8 @@ public class Foo {
         System.out.println("Foooooo");
     }
 
+    public void goo() {System.out.println("Goo");}
+
     public void bar(){
         _bar.bar();
     }
