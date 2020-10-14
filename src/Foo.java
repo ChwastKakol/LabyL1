@@ -8,6 +8,7 @@ public class Foo {
 
     public void goo() {System.out.println("Goo is again");}
 
+
     public void loo() {System.out.println("Loo");}
 
     public void bar(){
